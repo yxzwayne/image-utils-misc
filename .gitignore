@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local development settings
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Uploaded files (if you're storing them locally)
+uploads/
